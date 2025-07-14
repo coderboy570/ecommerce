@@ -1,0 +1,1 @@
+A responsive online shopping platform where users can browse products, view details, add items to the cart, and make secure payments. It features user authentication, product management, order tracking, and an admin panel for backend control. Built using HTML, CSS, JavaScript, PHP, and MySQL.
